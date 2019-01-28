@@ -10,11 +10,10 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     license='',  # example license
-    description='',
+    description='Hide the DRF token table from admin',
     long_description='',
     url='',
-    author='Your Name',
-    author_email='yourname@example.com',
-    classifiers=[
-    ],
+    author='Felix Michaux',
+    author_email='f.michaux@rcvs.org.uk',
+    classifiers=[],
 )
